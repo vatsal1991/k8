@@ -1,0 +1,13 @@
+# Service YAML for nginx
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx-service
+spec:
+  selector:
+    app: nginx
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+  type: ClusterIP  # This can be changed to NodePort or LoadBalancer based on your needs
