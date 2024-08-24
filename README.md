@@ -4,7 +4,8 @@
 - 🛠️ Automation Scripts: Simplify your workflow with powerful scripts designed to automate your Kubernetes tasks.
 - 📚 Expert Guides: Learn best practices and advanced techniques with our in-depth documentation and guides.
 - 🔄 Scalable Solutions: Explore setups for scalable, production-ready environments.
- 
+
+### Journey begins 🏎️
 #### 🔵Connect the nginx service to the deployment 
 - Create directory, traverse to it
 - Download deployment files
