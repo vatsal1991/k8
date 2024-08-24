@@ -10,5 +10,5 @@
   ```bash
   bash <(curl -s "https://raw.githubusercontent.com/vatsal1991/k8/main/cleanup_create_depl_service.sh")
 - How It Works:
--- The Service uses the selector field to match Pods that have the label app=nginx.
--- Traffic sent to the Service's ClusterIP on port 80 will be forwarded to one of the Pods in the nginx-deployment on port 80.
+  - The Service uses the selector field to match Pods that have the label app=nginx.
+  - Traffic sent to the Service's ClusterIP on port 80 will be forwarded to one of the Pods in the nginx-deployment on port 80.
