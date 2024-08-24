@@ -1,5 +1,5 @@
 # k8
-
+`rgb(9, 105, 218)`
 #### Connect the nginx service to the deployment 
 - Create directory, traverse to it
 - Download deployment files
