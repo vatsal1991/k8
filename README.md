@@ -1,5 +1,9 @@
-# k8
-
+# k8 playground 🚀
+## What's inside? 
+🌟 Ready-to-Use YAMLs: Dive into a curated collection of Kubernetes manifests that will get your apps up and running in no time.
+🛠️ Automation Scripts: Simplify your workflow with powerful scripts designed to automate your Kubernetes tasks.
+📚 Expert Guides: Learn best practices and advanced techniques with our in-depth documentation and guides.
+🔄 Scalable Solutions: Explore setups for scalable, production-ready environments.
  
 #### 🔵Connect the nginx service to the deployment 
 - Create directory, traverse to it
