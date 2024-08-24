@@ -1,5 +1,6 @@
 # k8
-`#RRGGBB`
+#RRGGBB
+#0969DA
 #### Connect the nginx service to the deployment 
 - Create directory, traverse to it
 - Download deployment files
