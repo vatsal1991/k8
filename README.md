@@ -1,7 +1,6 @@
 # k8
-#RRGGBB
-#0969DA
-#### Connect the nginx service to the deployment 
+
+🟢 #### Connect the nginx service to the deployment 
 - Create directory, traverse to it
 - Download deployment files
 - Run the config files
