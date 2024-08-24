@@ -8,4 +8,4 @@
   bash <(curl -s "https://raw.githubusercontent.com/vatsal1991/k8/main/create_depl_service.sh")
 - Undo everything you did in this step!
   ```bash
-  bash <(curl -s "https://raw.githubusercontent.com/vatsal1991/k8/main/create_depl_service.sh")
+  bash <(curl -s "https://raw.githubusercontent.com/vatsal1991/k8/main/cleanup_create_depl_service.sh")
